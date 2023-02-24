@@ -1,5 +1,8 @@
 # bluetooth_ligaled_t1
 
+Um aplicativo em flutter para receber as informações via bluetooth BLE de uma placa .
+Essas informações serão mostradas na tela e atulizadas automaticamente.
+
 A new Flutter project.
 
 ## Getting Started
